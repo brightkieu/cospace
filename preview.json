@@ -1,0 +1,26 @@
+[
+  {
+    "id": "81c9c6b0-26fb-4e50-b15c-72630cd962a8",
+    "createdAt": "2024-12-18T14:45:19.875Z",
+    "group": "050c98b3-b7a4-427c-af02-5a188ed47a88",
+    "branch": "main",
+    "message": "Merge pull request #1 from brightkieu/update\n\nUpdate",
+    "runtimeVersion": "2.0.0",
+    "platform": "android",
+    "manifestPermalink": "https://u.expo.dev/update/81c9c6b0-26fb-4e50-b15c-72630cd962a8",
+    "isRollBackToEmbedded": false,
+    "gitCommitHash": "ed038d2756279595485f7990075680745e23b24d"
+  },
+  {
+    "id": "e5a70430-41bd-4326-9eee-86ab443bf8ac",
+    "createdAt": "2024-12-18T14:45:19.875Z",
+    "group": "050c98b3-b7a4-427c-af02-5a188ed47a88",
+    "branch": "main",
+    "message": "Merge pull request #1 from brightkieu/update\n\nUpdate",
+    "runtimeVersion": "2.0.0",
+    "platform": "ios",
+    "manifestPermalink": "https://u.expo.dev/update/e5a70430-41bd-4326-9eee-86ab443bf8ac",
+    "isRollBackToEmbedded": false,
+    "gitCommitHash": "ed038d2756279595485f7990075680745e23b24d"
+  }
+]
